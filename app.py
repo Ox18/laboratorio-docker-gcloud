@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-st.title("Mi primera app en Streamlit")
+st.title("Mi primera app en Streamlit - v2")
 
 name = st.text_input("¿Cuál es tu nombre?", "Escribe tu nombre aquí")
 
